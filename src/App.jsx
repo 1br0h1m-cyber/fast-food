@@ -1,4 +1,4 @@
-import Card from "./components/Card/card"
+import Card from "./components/card/card"
 import Products from "./data/mockData"
 import logo from '../public/logo.ico'
 import Cart from "./components/cart/cart"
